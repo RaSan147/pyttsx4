@@ -2,7 +2,7 @@
 pyttsx3 with Some SAPI driver patch to fix some bugs
 
 # How to Use
-1. copy these `.py` files
+1. copy the `.py` files from `/src` folder in your project.
 2. Use as function :
   ```python
   import pyttsx4 as pyttsx3
